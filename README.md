@@ -33,6 +33,9 @@ can be represented as int type value (I name them `Num`),
 so module could plot it.
 
 
+To speed up matrix drawing I use multiple algorithms
+like binary search and memorization. 
+
 
 ## Use examples
 Examples how to create new ColorMap you can see in [file](https://github.com/Aleksandr-qefy/clrplot/blob/main/colormaps.go).
